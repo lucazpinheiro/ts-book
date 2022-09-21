@@ -1,0 +1,1 @@
+## code examples and exercises from Programming Typescript (by Boris Cherny)
